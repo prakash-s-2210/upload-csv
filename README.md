@@ -20,6 +20,7 @@ To set up this project locally, follow these steps:
    npm install
    npm run dev
    Open http://localhost:3000 with your browser to see the result.
+  ```
 
 ## Usage
 **1. Sign In:** 
