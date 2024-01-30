@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Upload CSV
 
-## Getting Started
+## Overview
 
-First, run the development server:
+This project is a front-end web application developed using Next.js 14. The application features a static sign-in page, an upload route with a sidebar navbar, and an upload section for CSV files. Once a CSV file is uploaded, its contents are displayed in the UI.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Screenshots
+![Sign In](https://github.com/prakash-s-2210/upload-csv/assets/94909544/f0845f1a-ab19-4ecc-89f1-d3bcf8db534b)
+![Upload](https://github.com/prakash-s-2210/upload-csv/assets/94909544/a08f3899-4c99-4f46-ac04-84f801f8a1d8)
+![Uploaded](https://github.com/prakash-s-2210/upload-csv/assets/94909544/d41665ee-e77a-49f5-a636-c2b618cde8b2)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Installation
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+To set up this project locally, follow these steps:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. **Clone the repository**:
+   ```bash
+   git clone [repository URL]
+   cd [project directory]
+   npm install
+   npm run dev
+   Open http://localhost:3000 with your browser to see the result.
 
-## Learn More
+## Usage
+**1. Sign In:** 
+  - Access the application's sign-in page and click the sign-in button.
 
-To learn more about Next.js, take a look at the following resources:
+**2. Upload CSV File:** 
+  - Navigate to the upload section, where you can upload a CSV file by clicking the upload area or dragging and dropping the file.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**3. View Uploaded Data:** 
+  - Once the CSV file is uploaded, its contents will be displayed in the UI.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Key Features
 
-## Deploy on Vercel
+**1. Static sign-in page**
+**2. Upload functionality for CSV files**
+**3. Display of uploaded CSV data**
+**4. Responsive design compatible with major web browsers**
+**5. Sidebar navigation**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Technologies
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**1. Next.js 14**
+**2. Tailwind CSS**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prakash2210/" target="_blank">
+    Feel free to reach out for any questions or issues. Happy coding!
+  </a>
+</p>
