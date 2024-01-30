@@ -42,8 +42,8 @@ To set up this project locally, follow these steps:
 
 ## Technologies
 
-**1. Next.js 14**
-**2. Tailwind CSS**
+- Next.js 14
+- Tailwind CSS
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prakash2210/" target="_blank">
