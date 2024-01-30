@@ -103,8 +103,6 @@ module.exports = {
         trunks: "#999CA0",
         bulma: "#231F20"
       },
-      boxShadow: {
-      },
       maxWidth: {
         "10xl": '1440px'
       },
