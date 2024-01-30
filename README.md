@@ -13,7 +13,7 @@ This project is a front-end web application developed using Next.js 14. The appl
 
 To set up this project locally, follow these steps:
 
-1. **Clone the repository**:
+**Clone the repository**:
    ```bash
    git clone [repository URL]
    cd [project directory]
@@ -33,11 +33,11 @@ To set up this project locally, follow these steps:
 
 ## Key Features
 
-**1. Static sign-in page**
-**2. Upload functionality for CSV files**
-**3. Display of uploaded CSV data**
-**4. Responsive design compatible with major web browsers**
-**5. Sidebar navigation**
+- Static sign-in page
+- Upload functionality for CSV files
+- Display of uploaded CSV data
+- Responsive design compatible with major web browsers
+- Sidebar navigation
 
 ## Technologies
 
